@@ -3,7 +3,7 @@
 
 Reference:-https://www.cio.com/article/3261425/how-application-specific-integrated-circuits-are-powering-the-future-of-it-today.html
 
-Sumary:- SICs provide benefits including speed and energy efficiency – both of which result in opex cost savings and often contribute to improved innovation.
+Summary:- SICs provide benefits including speed and energy efficiency – both of which result in opex cost savings and often contribute to improved innovation.
 
 2) Find, run and extend a notebook in seedbank and share along with your comments on what you learned.
 
